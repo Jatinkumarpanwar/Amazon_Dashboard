@@ -1,3 +1,3 @@
 # Amazon_Dashboard
 
-https://github.com/Jatinkumarpanwar/Amazon_Dashboard/blob/main/Amazon%20Dashboard.png
+<img scr= "https://github.com/Jatinkumarpanwar/Amazon_Dashboard/blob/main/Amazon%20Dashboard.png" >
